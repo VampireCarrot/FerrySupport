@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FerrySupport</string>
+    <string name="failure" >权限获取失败</string>
+    <string name="successfully">权限获取成功</string>
+    <string name="dialog_title">权限申请失败</string>
+    <string name="dialog_desc">我们需要的一些权限被您拒绝或者系统发生错误申请失败，请您到设置页面手动授权，否则功能无法正常使用！</string>
+    <string name="dialog_ok">好，去设置</string>
+</resources>
